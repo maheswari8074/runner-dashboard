@@ -11,8 +11,10 @@ A Next.js web application for analyzing running data from CSV files. Upload a CS
 ![Miles Overtime](public/screenshots/img2.png)
 
 ### Per Runner View
-![Overall Miles by Runner](public/screenshots/img3.png)
+![Overall View per Runner](public/screenshots/img5.png)
 
+### Overall View
+![Miles Overtime by Runner](public/screenshots/img3.png)
 ### Error Handling
 ![Error Handling](public/screenshots/img4.png)
 
