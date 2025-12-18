@@ -2,7 +2,20 @@
 
 A Next.js web application for analyzing running data from CSV files. Upload a CSV with runner information and visualize their performance through interactive charts and statistics.
 
-![Dashboard Screenshot](./screenshots/img1.png)
+## 📸 Dashboard Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](public/screenshots/img1.png)
+
+### Overall Metrics
+![Miles Overtime](public/screenshots/img2.png)
+
+### Per Runner View
+![Overall Miles by Runner](public/screenshots/img3.png)
+
+### Error Handling
+![Error Handling](public/screenshots/img4.png)
+
 
 ## 📋 Project Overview
 
@@ -602,7 +615,7 @@ npm run dev
 
 ## 👤 Author
 
-**Your Name**
+**Maheswari Mudadla**  
 - GitHub: [@maheswari8074](https://github.com/yourusername)
 - Email: maheswarimudadla756@gmail.com
 
